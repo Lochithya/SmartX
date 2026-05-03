@@ -46,7 +46,6 @@ The following UI components and pages were designed during this project:
 
 ## Device Management
 - View connected smart devices and their available features
-- Add devices to specific rooms through a dedicated interface
 - Manage device functionalities efficiently
 
 ## Room Management
@@ -97,21 +96,6 @@ The application structure was carefully planned to ensure users can complete tas
 
 ---
 
-# Learning Outcomes
-
-Through this project, I gained valuable experience and practical exposure in:
-- UI/UX Design Principles
-- Wireframe Development
-- Figma Prototyping
-- User Flow Planning
-- Responsive Interface Design
-- Smart Application Design Concepts
-- Logical Task Flow Structuring
-- User-Centered Design Thinking
-
-This project also improved my understanding of how smart home applications should function from a usability and accessibility perspective while helping me strengthen my design and problem-solving skills.
-
----
 
 # Conclusion
 
