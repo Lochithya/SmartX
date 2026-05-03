@@ -8,6 +8,9 @@ The wireframes for this application were designed using **Figma**, focusing on c
 
 This project also emphasized practical UI/UX principles such as responsive interactions, minimal complexity, user confirmations for sensitive actions, and realistic workflow designs to improve the overall user experience.  
 
+Figma Link       - https://www.figma.com/design/zQRBYkfVrntwahUas3R30o/SmartX?node-id=0-1&t=1WVch0ifahQVaUl4-1
+Video Flow Link  - https://drive.google.com/file/d/10PqkvbLCqjMscb0P7dOYtYub3JFlC83d/view?usp=drive_link
+
 ---
 
 # Application Name
